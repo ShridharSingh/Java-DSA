@@ -1,4 +1,4 @@
-package hashset;
+package datastructures.hashset;
 
 // Import statement
 import java.util.*;
